@@ -1,0 +1,83 @@
+/**ssssssssstttttttttyyyyyyyyyyllllllllllllllleeeeeeeeeeeeeesssssssssssss.csssssss**8/
+/*adapter a chrommmmmmmmmmmmmmmmmeeeeeeeeee**/
+.div-index{
+  -webkit-margin-left: 5%;
+  -webkit-width: 27%;
+  -webkit-height: 28em;
+  -webkit-background:none;
+  -webkit-transition-duration: .5s;
+  -webkit-box-shadow: 0 5px 15px gray;
+}
+.div-index:hover{
+  -webkit-animation: none;
+  -webkit-transform: translateY(-15px);
+  -webkit-box-shadow: 0 50px 50px rgba(0,0,0,0.5);
+}
+.separation-index{
+  -webkit-width: 25%;
+  -webkit-border-bottom: 5px solid orangered;
+  -webkit-margin-left: 10%;
+}
+.image-index{
+  -webkit-background-size: cover;
+  -webkit-width: 100%;
+  -webkit-height: 55%;
+  -webkit-overflow:hidden;
+  -webkit-transition-duration: .5s;
+  -webkit-float: left;
+}
+.contain-index-image{
+  -webkit-width: 100%;
+  -webkit-height: 100%;
+  -webkit-position: relative;
+  -webkit-transition: left 2s;
+  -moz-transition: left 2s;
+}
+.div-index:hover .image-index{
+  -webkit-filter:brightness(60%);
+}
+.detail-index{
+  -webkit-width: 100%;
+  -webkit-height: 45%;
+  -webkit-display: inline-block;
+}
+.text-detail-titre{
+  -webkit-width: 100%;
+  -webkit-font-family: 'Roboto',Condensed,sans-serif;
+  -webkit-font-weight: 400;
+  -webkit-font-size: 28px;
+  -webkit-padding: 10px 0;
+  -webkit-color: orangered;
+  -webkit-margin-left: 10%;
+}
+.text-detail{
+  -webkit-width: 60%;
+  -webkit-margin-left: 10%;
+  -webkit-color: #000;
+}
+.button-detail{
+  -webkit-width: 50%;
+  -webkit-height: 2.5em;
+  -webkit-margin-left: 10%;
+  -webkit-font-size: 16px;
+  -webkit-text-align:center;
+  -webkit-font-family: Arial, Helvetica, sans-serif;
+  -webkit-border: 0px;
+  -webkit-letter-spacing: 2px;
+  -webkit-color: white;
+  -webkit-background-color: orangered;
+  -webkit-transition: .5s;
+}
+
+.button-detail:hover{
+  -webkit-background-color: green;
+  -webkit-cursor: pointer;
+}
+.button-detail a{
+  -webkit-text-decoration: none;
+  -webkit-color: white;
+  -webkit-font-weight: 700;
+  -webkit-font-family: Arial, Helvetica, sans-serif;
+  -webkit-text-shadow:  3px 5px 15px #f3fd34;
+}
+/*adapter a chrommmmmmmmmmmmmmmmmeeeeeeeeee**//*adapter a chrommmmmmmmmmmmmmmmmeeeeeeeeee**//*adapter a chrommmmmmmmmmmmmmmmmeeeeeeeeee**/
